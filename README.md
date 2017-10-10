@@ -19,26 +19,31 @@
 ## Coursework Assignment
 Implementation of code for a given set of data structure related questions. Tasks include implementation of : 
 
-- a function that aims to ``sort`` the items in the ``linkedlist`` in the ascending order.
-- a function that aims to move all the odd items in a linkedlist to the back and the even items, to the front
-- a function that aims to ``create`` a ``Queue`` based on the items from a linkedlist. 
-- a function that aims to remove all the odd items from the Queue
-- a function that aims to print the items in a ``Binary Search Tree`` in post-order manner by using ``iterative method`` with ``two stacks``
+Functions that aims to 
+* sort the items in the ``linkedlist`` in the ascending order
+* move all the odd items in a ``linkedlist`` to the back and vice versa
+* ``create`` a ``Queue`` based on the items from a ``linkedlist``
+* remove all the odd items from the ``Queue``
+* print the items in a ``Binary Search Tree (BST)`` in post-order manner by using iterative method with two stacks
 
 ## Knowledge Accquired includes: 
 
-1. Basic Constructs in C program structure, Syntax and semantics
+### First Half
+1. Basic C Programming Structures
+2. Control Flow
+3. Functions
+4. Pointers
+5. Arrays
+6. Character Strings
+7. Structures
+8. Recursion
 
-2. Built-in Data Structures
-
-3. Recursion
-
+### Second Half
+1. Built-in Data Structures
+2. Recursion
 3. Memory Management in C
-
-4. Linked Lists
-
-5. Stacks and Queues
-
-6. Tree Structures
-
-7. Implementing other data abstractions
+4. Dynamic Data Structures
+5. Linked Lists
+6. Stacks and Queues
+7. Binary Trees
+8. Binary Search Trees
