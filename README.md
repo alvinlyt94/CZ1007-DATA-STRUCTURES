@@ -19,7 +19,7 @@
 ## Coursework Assignment
 Implementation of code for a given set of data structure related questions. Tasks include implementation of : 
 
-Functions that aims to 
+Functions that aims to :
 * sort the items in the ``linkedlist`` in the ascending order
 * move all the odd items in a ``linkedlist`` to the back and vice versa
 * ``create`` a ``Queue`` based on the items from a ``linkedlist``
