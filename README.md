@@ -1,4 +1,4 @@
-# CZ1007: Data Structures
+# CZ1007 : Data Structures
 
 ## Learning Outcome
 
@@ -26,7 +26,7 @@ Functions that aims to :
 * remove all the odd items from the ``Queue``
 * print the items in a ``Binary Search Tree (BST)`` in post-order manner by using iterative method with two stacks
 
-Programming Language(s) Used: ``C``
+Programming Language Used: ``C``
 
 ## Knowledge Accquired includes: 
 
