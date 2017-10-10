@@ -1,7 +1,20 @@
 # CZ1007: Data Structures
 
 ## Learning Outcome
-After completing the course, I have gained excellent understanding of **C syntax** and various types of **data structures** and their **pros and cons**.
+
+### First Half
+* **Understand** the abstract design and practical implementation of data structures
+* **Select** and **apply** appropriate data structures for a given requirement
+* **Visualize** the data structures created
+* Capable of **proposing** new data structures
+* **Implement** software to solve real-world problems using data structures
+
+### Second Half
+* Understand what the tools are for **storing** and **processing** common data types
+* Understand which tools are appropriate for which need
+* To make **good design choices** as a developer, project manager, or system customer
+* Able to **justify** design decisions
+* Able to **communicate** ideas about programs clearly and precisely
 
 ## Coursework Assignment
 Implementation of code for a given set of data structure related questions. Tasks include implementation of : 
