@@ -30,7 +30,7 @@ Refer to `CZ1007 Coursework Assignment.pdf` for more details.
 
 Programming Language Used: ``C``
 
-## Knowledge Accquired includes: 
+## Knowledge Acquired includes: 
 
 ### First Half
 1. Basic C Programming Structures
