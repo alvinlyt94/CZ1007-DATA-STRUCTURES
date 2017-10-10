@@ -30,20 +30,34 @@ Functions that aims to :
 
 ### First Half
 1. Basic C Programming Structures
+
 2. Control Flow
+
 3. Functions
+
 4. Pointers
+
 5. Arrays
+
 6. Character Strings
+
 7. Structures
+
 8. Recursion
 
 ### Second Half
 1. Built-in Data Structures
+
 2. Recursion
+
 3. Memory Management in C
+
 4. Dynamic Data Structures
+
 5. Linked Lists
+
 6. Stacks and Queues
+
 7. Binary Trees
+
 8. Binary Search Trees
