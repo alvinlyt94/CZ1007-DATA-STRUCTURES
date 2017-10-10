@@ -1,4 +1,4 @@
-# CZ1007-DATA-STRUCTURES
+# CZ1007: Data Structures
 
 ## Learning Outcome
 After completing the course, I have gained excellent understanding of **C syntax** and various types of **data structures** and their **pros and cons**.
