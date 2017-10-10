@@ -26,6 +26,8 @@ Functions that aims to :
 * remove all the odd items from the ``Queue``
 * print the items in a ``Binary Search Tree (BST)`` in post-order manner by using iterative method with two stacks
 
+Refer to `CZ1007 Coursework Assignment.pdf` for more details.
+
 Programming Language Used: ``C``
 
 ## Knowledge Accquired includes: 
